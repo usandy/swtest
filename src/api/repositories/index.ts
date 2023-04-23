@@ -1,0 +1,1 @@
+export { PeopleRepository } from './people'
